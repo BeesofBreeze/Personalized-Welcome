@@ -2,6 +2,6 @@ main: com.techfoxis.personalizedWelcome.PersonalizedWelcome
 
 name: PersonalizedWelcome
 version: 0.1.0
-description: Lets you specify special messages for people upon loging in.
+description: Lets you specify special messages for people upon logging in.
 
 commands:
